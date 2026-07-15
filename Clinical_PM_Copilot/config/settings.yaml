@@ -1,0 +1,39 @@
+# 临床试验项目管理工具 - 配置文件
+# 修改此文件无需改动代码
+
+# ==================== 路径配置 ====================
+paths:
+  data_dir: "data/raw"
+  output_dir: "outputs"
+  db_path: "database/clinical_trial.db"
+  log_dir: "logs"
+
+# ==================== 文件名称 ====================
+files:
+  ae: "AE.xlsx"
+  enrollment: "enrollment.xlsx"
+
+# ==================== 数据质量阈值 ====================
+thresholds:
+  # 入组相关
+  enrollment_completion_warning: 0.5    # 完成率低于50%预警
+  enrollment_high_risk: ["高", "极高"]   # 高风险等级列表
+
+  # AE相关
+  sae_report_days: 7                    # SAE报告时限（天）
+  ae_unresolved_alert_days: 14          # 未解决AE持续天数预警
+
+# ==================== 邮件通知（预留） ====================
+email:
+  enabled: false
+  smtp_server: "smtp.company.com"
+  sender: "pm@company.com"
+  recipients:
+    - "team@company.com"
+  subject: "Weekly Clinical Trial Report"
+
+# ==================== 绘图样式 ====================
+plotting:
+  dpi: 300
+  figsize: [20, 14]
+  style: "seaborn-v0_8-whitegrid"

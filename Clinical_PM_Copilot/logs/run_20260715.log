@@ -1,0 +1,8 @@
+2026-07-15 15:28:50,450 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-15 15:28:51,127 - INFO - Loaded AE: 63 rows, Enrollment: 65 rows
+2026-07-15 15:28:51,142 - INFO - Total AE: 63, SAE: 16
+2026-07-15 15:28:51,142 - INFO - Enrollment Rate: 74.8%
+2026-07-15 15:28:55,982 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-15 15:28:55,983 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-15 15:28:56,495 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-15
+2026-07-15 15:28:56,495 - INFO - === Weekly Report Completed Successfully ===

@@ -1,0 +1,84 @@
+2026-07-14 14:51:28,507 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 14:51:28,817 - INFO - Loaded AE: 26 rows, Enrollment: 16 rows
+2026-07-14 14:51:28,826 - INFO - Total AE: 26, SAE: 6
+2026-07-14 14:51:28,827 - INFO - Enrollment Rate: 69.7%
+2026-07-14 14:53:36,271 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 14:53:36,592 - INFO - Loaded AE: 26 rows, Enrollment: 16 rows
+2026-07-14 14:53:36,603 - INFO - Total AE: 26, SAE: 6
+2026-07-14 14:53:36,603 - INFO - Enrollment Rate: 69.7%
+2026-07-14 14:53:39,821 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 14:53:39,821 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:03:26,631 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:03:26,979 - INFO - Loaded AE: 26 rows, Enrollment: 16 rows
+2026-07-14 15:03:26,998 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:03:26,999 - INFO - Enrollment Rate: 69.7%
+2026-07-14 15:03:29,977 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:03:29,977 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:09:47,752 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:09:48,099 - INFO - Loaded AE: 26 rows, Enrollment: 30 rows
+2026-07-14 15:09:48,112 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:09:48,113 - INFO - Enrollment Rate: 74.3%
+2026-07-14 15:09:51,660 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:09:51,661 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:13:43,733 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:13:44,003 - INFO - Loaded AE: 26 rows, Enrollment: 30 rows
+2026-07-14 15:13:44,015 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:13:44,016 - INFO - Enrollment Rate: 74.3%
+2026-07-14 15:13:47,655 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:13:47,655 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:19:52,556 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:19:52,872 - INFO - Loaded AE: 26 rows, Enrollment: 30 rows
+2026-07-14 15:19:52,889 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:19:52,889 - INFO - Enrollment Rate: 74.3%
+2026-07-14 15:19:56,100 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:19:56,101 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:21:32,474 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:21:32,736 - INFO - Loaded AE: 26 rows, Enrollment: 51 rows
+2026-07-14 15:21:32,749 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:21:32,750 - INFO - Enrollment Rate: 74.2%
+2026-07-14 15:21:37,006 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:21:37,006 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 15:36:51,576 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:36:51,869 - INFO - Loaded AE: 26 rows, Enrollment: 51 rows
+2026-07-14 15:36:51,880 - INFO - Total AE: 26, SAE: 6
+2026-07-14 15:36:51,880 - INFO - Enrollment Rate: 74.2%
+2026-07-14 15:43:33,453 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:43:33,756 - INFO - Loaded AE: 50 rows, Enrollment: 51 rows
+2026-07-14 15:43:33,767 - INFO - Total AE: 50, SAE: 15
+2026-07-14 15:43:33,767 - INFO - Enrollment Rate: 74.2%
+2026-07-14 15:45:24,237 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:45:24,500 - INFO - Loaded AE: 50 rows, Enrollment: 51 rows
+2026-07-14 15:45:24,520 - INFO - Total AE: 50, SAE: 15
+2026-07-14 15:45:24,521 - INFO - Enrollment Rate: 74.2%
+2026-07-14 15:47:59,487 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:47:59,741 - INFO - Loaded AE: 50 rows, Enrollment: 51 rows
+2026-07-14 15:47:59,753 - INFO - Total AE: 50, SAE: 15
+2026-07-14 15:47:59,754 - INFO - Enrollment Rate: 74.2%
+2026-07-14 15:49:14,217 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:49:14,218 - ERROR - Data files not found! Please check data/raw/ directory.
+2026-07-14 15:49:14,218 - ERROR - Expected AE: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/data/raw/AE.xlsx
+2026-07-14 15:49:14,218 - ERROR - Expected Enrollment: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/data/raw/enrollment01.xlsx
+2026-07-14 15:53:24,645 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:53:24,648 - ERROR - Data files not found! Please check data/raw/ directory.
+2026-07-14 15:53:24,648 - ERROR - Expected AE: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/data/raw/AE.xlsx
+2026-07-14 15:53:24,648 - ERROR - Expected Enrollment: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/data/raw/enrollment01.xlsx
+2026-07-14 15:54:46,606 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:54:46,901 - INFO - Loaded AE: 50 rows, Enrollment: 30 rows
+2026-07-14 15:54:46,913 - INFO - Total AE: 50, SAE: 15
+2026-07-14 15:54:46,913 - INFO - Enrollment Rate: 58.8%
+2026-07-14 15:56:28,078 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 15:56:28,366 - INFO - Loaded AE: 50 rows, Enrollment: 30 rows
+2026-07-14 15:56:28,382 - INFO - Total AE: 50, SAE: 15
+2026-07-14 15:56:28,382 - INFO - Enrollment Rate: 58.8%
+2026-07-14 15:56:32,099 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-14 15:56:32,100 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-14 15:56:32,409 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 15:56:32,409 - INFO - === Weekly Report Completed Successfully ===
+2026-07-14 16:11:57,367 - INFO - === Weekly Clinical Trial Report Started ===
+2026-07-14 16:11:57,630 - INFO - Loaded AE: 56 rows, Enrollment: 65 rows
+2026-07-14 16:11:57,643 - INFO - Total AE: 56, SAE: 16
+2026-07-14 16:11:57,643 - INFO - Enrollment Rate: 73.7%
+2026-07-14 16:12:02,053 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-14 16:12:02,054 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-07-14 16:12:02,317 - INFO - ✅ All outputs saved to: /Users/zhangyiyuan/PycharmProjects/Clinical_PM_Copilot/outputs/2026-07-14
+2026-07-14 16:12:02,317 - INFO - === Weekly Report Completed Successfully ===
